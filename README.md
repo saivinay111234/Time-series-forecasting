@@ -17,6 +17,7 @@ There are four categories of the components of time series. They are
 Problem statement
 In this project, we are predicting whether the future price of a stock goes upward or downward (depicted as “Target”-(1/0)) based on past values of the data.
 
+
 Libraries
 1.	Yahoo finance
 2.	Pandas
